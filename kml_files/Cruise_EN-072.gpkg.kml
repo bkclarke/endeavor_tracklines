@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Cruise_EN_072.gpkg" id="Cruise_EN_072.gpkg">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Cruise" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+</Schema>
+<Folder><name>Cruise_EN_072.gpkg</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_072.gpkg">
+		<SimpleData name="fid">1103</SimpleData>
+		<SimpleData name="Cruise">EN-072</SimpleData>
+		<SimpleData name="lat">36.595</SimpleData>
+		<SimpleData name="lon">-73.885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.885,36.595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_072.gpkg">
+		<SimpleData name="fid">1104</SimpleData>
+		<SimpleData name="Cruise">EN-072</SimpleData>
+		<SimpleData name="lat">36.283</SimpleData>
+		<SimpleData name="lon">-73.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5,36.283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_072.gpkg">
+		<SimpleData name="fid">1105</SimpleData>
+		<SimpleData name="Cruise">EN-072</SimpleData>
+		<SimpleData name="lat">35.355</SimpleData>
+		<SimpleData name="lon">-72.647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.647,35.355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_072.gpkg">
+		<SimpleData name="fid">1106</SimpleData>
+		<SimpleData name="Cruise">EN-072</SimpleData>
+		<SimpleData name="lat">36.683</SimpleData>
+		<SimpleData name="lon">-73.15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.15,36.683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_072.gpkg">
+		<SimpleData name="fid">1107</SimpleData>
+		<SimpleData name="Cruise">EN-072</SimpleData>
+		<SimpleData name="lat">37.107</SimpleData>
+		<SimpleData name="lon">-72.327</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.327,37.107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_072.gpkg">
+		<SimpleData name="fid">1108</SimpleData>
+		<SimpleData name="Cruise">EN-072</SimpleData>
+		<SimpleData name="lat">40.637</SimpleData>
+		<SimpleData name="lon">-71.492</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.492,40.637</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

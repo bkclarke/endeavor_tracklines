@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Cruise_EN648.gpkg" id="Cruise_EN648.gpkg">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Cruise" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+</Schema>
+<Folder><name>Cruise_EN648.gpkg</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525000</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.4887</SimpleData>
+		<SimpleData name="lon">-71.4125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4125,41.4887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525001</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.4538</SimpleData>
+		<SimpleData name="lon">-71.4109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4109,41.4538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525002</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.412</SimpleData>
+		<SimpleData name="lon">-71.4167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4167,41.412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525003</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3698</SimpleData>
+		<SimpleData name="lon">-71.423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.423,41.3698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525004</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.324</SimpleData>
+		<SimpleData name="lon">-71.4251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4251,41.324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525005</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.2765</SimpleData>
+		<SimpleData name="lon">-71.425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.425,41.2765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525006</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.2275</SimpleData>
+		<SimpleData name="lon">-71.4246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4246,41.2275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525007</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.1775</SimpleData>
+		<SimpleData name="lon">-71.424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.424,41.1775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525008</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.1267</SimpleData>
+		<SimpleData name="lon">-71.4212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4212,41.1267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525009</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.0762</SimpleData>
+		<SimpleData name="lon">-71.4084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4084,41.0762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525010</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.0268</SimpleData>
+		<SimpleData name="lon">-71.3923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3923,41.0268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525011</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.9765</SimpleData>
+		<SimpleData name="lon">-71.3834</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3834,40.9765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525012</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.9267</SimpleData>
+		<SimpleData name="lon">-71.3754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3754,40.9267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525013</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.877</SimpleData>
+		<SimpleData name="lon">-71.3668</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3668,40.877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525014</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.828</SimpleData>
+		<SimpleData name="lon">-71.3503</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3503,40.828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525015</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.7794</SimpleData>
+		<SimpleData name="lon">-71.3328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3328,40.7794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525016</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.7311</SimpleData>
+		<SimpleData name="lon">-71.3162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3162,40.7311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525017</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.6822</SimpleData>
+		<SimpleData name="lon">-71.3033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3033,40.6822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525018</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.6328</SimpleData>
+		<SimpleData name="lon">-71.2941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2941,40.6328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525019</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.5837</SimpleData>
+		<SimpleData name="lon">-71.2851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2851,40.5837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525020</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.5338</SimpleData>
+		<SimpleData name="lon">-71.2757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2757,40.5338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525021</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.4854</SimpleData>
+		<SimpleData name="lon">-71.2594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2594,40.4854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525022</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.4378</SimpleData>
+		<SimpleData name="lon">-71.2404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2404,40.4378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525023</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.3902</SimpleData>
+		<SimpleData name="lon">-71.2218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2218,40.3902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525024</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.3423</SimpleData>
+		<SimpleData name="lon">-71.2031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2031,40.3423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525025</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.2942</SimpleData>
+		<SimpleData name="lon">-71.1847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1847,40.2942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525026</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.2458</SimpleData>
+		<SimpleData name="lon">-71.1642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1642,40.2458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525027</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.1976</SimpleData>
+		<SimpleData name="lon">-71.1442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1442,40.1976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525028</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.1494</SimpleData>
+		<SimpleData name="lon">-71.124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.124,40.1494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525029</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.1005</SimpleData>
+		<SimpleData name="lon">-71.1045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1045,40.1005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525030</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.0515</SimpleData>
+		<SimpleData name="lon">-71.0841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0841,40.0515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525031</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.0025</SimpleData>
+		<SimpleData name="lon">-71.0641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0641,40.0025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525032</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.9535</SimpleData>
+		<SimpleData name="lon">-71.0454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0454,39.9535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525033</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.9041</SimpleData>
+		<SimpleData name="lon">-71.028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.028,39.9041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525034</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.8539</SimpleData>
+		<SimpleData name="lon">-71.0116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0116,39.8539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525035</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.8027</SimpleData>
+		<SimpleData name="lon">-70.9968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9968,39.8027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525036</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.751</SimpleData>
+		<SimpleData name="lon">-70.9828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9828,39.751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525037</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.6988</SimpleData>
+		<SimpleData name="lon">-70.971</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.971,39.6988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525038</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.6462</SimpleData>
+		<SimpleData name="lon">-70.9601</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9601,39.6462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525039</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.5942</SimpleData>
+		<SimpleData name="lon">-70.9499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9499,39.5942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525040</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.5423</SimpleData>
+		<SimpleData name="lon">-70.9401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9401,39.5423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525041</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.4911</SimpleData>
+		<SimpleData name="lon">-70.9313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9313,39.4911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525042</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.4402</SimpleData>
+		<SimpleData name="lon">-70.9228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9228,39.4402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525043</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.3913</SimpleData>
+		<SimpleData name="lon">-70.9134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9134,39.3913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525044</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.3431</SimpleData>
+		<SimpleData name="lon">-70.9033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9033,39.3431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525045</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.2955</SimpleData>
+		<SimpleData name="lon">-70.8918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8918,39.2955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525046</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.2488</SimpleData>
+		<SimpleData name="lon">-70.8805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8805,39.2488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525047</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.2023</SimpleData>
+		<SimpleData name="lon">-70.8687</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8687,39.2023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525048</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.1559</SimpleData>
+		<SimpleData name="lon">-70.8559</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8559,39.1559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525049</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.1095</SimpleData>
+		<SimpleData name="lon">-70.8428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8428,39.1095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525050</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.0645</SimpleData>
+		<SimpleData name="lon">-70.8269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8269,39.0645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525051</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.0195</SimpleData>
+		<SimpleData name="lon">-70.8088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8088,39.0195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525052</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.9749</SimpleData>
+		<SimpleData name="lon">-70.7901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7901,38.9749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525053</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.9305</SimpleData>
+		<SimpleData name="lon">-70.7715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7715,38.9305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525054</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.8867</SimpleData>
+		<SimpleData name="lon">-70.7533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7533,38.8867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525055</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.8421</SimpleData>
+		<SimpleData name="lon">-70.7386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7386,38.8421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525056</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.799</SimpleData>
+		<SimpleData name="lon">-70.721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.721,38.799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525057</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.756</SimpleData>
+		<SimpleData name="lon">-70.7015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7015,38.756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525058</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.7128</SimpleData>
+		<SimpleData name="lon">-70.68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.68,38.7128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525059</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.6691</SimpleData>
+		<SimpleData name="lon">-70.6576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6576,38.6691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525060</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.6245</SimpleData>
+		<SimpleData name="lon">-70.6343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6343,38.6245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525061</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.5784</SimpleData>
+		<SimpleData name="lon">-70.6144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6144,38.5784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525062</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.5316</SimpleData>
+		<SimpleData name="lon">-70.5952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5952,38.5316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525063</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.4843</SimpleData>
+		<SimpleData name="lon">-70.5775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5775,38.4843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525064</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.4365</SimpleData>
+		<SimpleData name="lon">-70.5623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5623,38.4365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525065</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.3884</SimpleData>
+		<SimpleData name="lon">-70.5482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5482,38.3884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525066</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.3399</SimpleData>
+		<SimpleData name="lon">-70.5335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5335,38.3399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525067</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.2919</SimpleData>
+		<SimpleData name="lon">-70.5166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5166,38.2919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525068</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.2438</SimpleData>
+		<SimpleData name="lon">-70.4995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4995,38.2438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525069</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.1954</SimpleData>
+		<SimpleData name="lon">-70.4814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4814,38.1954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525070</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.1488</SimpleData>
+		<SimpleData name="lon">-70.4635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4635,38.1488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525071</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.1025</SimpleData>
+		<SimpleData name="lon">-70.4486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4486,38.1025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525072</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.0555</SimpleData>
+		<SimpleData name="lon">-70.4355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4355,38.0555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525073</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.0077</SimpleData>
+		<SimpleData name="lon">-70.4246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4246,38.0077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525074</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.9598</SimpleData>
+		<SimpleData name="lon">-70.4128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4128,37.9598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525075</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.912</SimpleData>
+		<SimpleData name="lon">-70.3983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3983,37.912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525076</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.8641</SimpleData>
+		<SimpleData name="lon">-70.385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.385,37.8641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525077</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.8162</SimpleData>
+		<SimpleData name="lon">-70.3714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3714,37.8162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525078</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.7684</SimpleData>
+		<SimpleData name="lon">-70.3568</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3568,37.7684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525079</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.7204</SimpleData>
+		<SimpleData name="lon">-70.3399</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3399,37.7204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525080</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.6725</SimpleData>
+		<SimpleData name="lon">-70.325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.325,37.6725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525081</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.6255</SimpleData>
+		<SimpleData name="lon">-70.308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.308,37.6255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525082</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.5994</SimpleData>
+		<SimpleData name="lon">-70.2752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2752,37.5994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525083</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.6009</SimpleData>
+		<SimpleData name="lon">-70.2419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2419,37.6009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525084</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.5906</SimpleData>
+		<SimpleData name="lon">-70.2853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2853,37.5906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525085</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.6082</SimpleData>
+		<SimpleData name="lon">-70.2556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2556,37.6082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525086</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.5971</SimpleData>
+		<SimpleData name="lon">-70.2583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2583,37.5971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525087</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.5742</SimpleData>
+		<SimpleData name="lon">-70.264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.264,37.5742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525088</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.5691</SimpleData>
+		<SimpleData name="lon">-70.2589</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2589,37.5691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525089</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.5499</SimpleData>
+		<SimpleData name="lon">-70.2587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2587,37.5499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525090</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.5273</SimpleData>
+		<SimpleData name="lon">-70.2894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2894,37.5273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525091</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.5722</SimpleData>
+		<SimpleData name="lon">-70.3014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3014,37.5722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525092</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.6186</SimpleData>
+		<SimpleData name="lon">-70.3099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3099,37.6186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525093</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.6652</SimpleData>
+		<SimpleData name="lon">-70.3181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3181,37.6652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525094</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.7119</SimpleData>
+		<SimpleData name="lon">-70.3243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3243,37.7119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525095</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.758</SimpleData>
+		<SimpleData name="lon">-70.331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.331,37.758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525096</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.8041</SimpleData>
+		<SimpleData name="lon">-70.3367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3367,37.8041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525097</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.8498</SimpleData>
+		<SimpleData name="lon">-70.3404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3404,37.8498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525098</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.8949</SimpleData>
+		<SimpleData name="lon">-70.3432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3432,37.8949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525099</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.9403</SimpleData>
+		<SimpleData name="lon">-70.3443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3443,37.9403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525100</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">37.9858</SimpleData>
+		<SimpleData name="lon">-70.3438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3438,37.9858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525101</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.0311</SimpleData>
+		<SimpleData name="lon">-70.344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.344,38.0311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525102</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.0756</SimpleData>
+		<SimpleData name="lon">-70.3467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3467,38.0756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525103</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.1171</SimpleData>
+		<SimpleData name="lon">-70.3588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3588,38.1171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525104</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.1587</SimpleData>
+		<SimpleData name="lon">-70.3702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3702,38.1587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525105</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.2002</SimpleData>
+		<SimpleData name="lon">-70.3802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3802,38.2002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525106</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.2407</SimpleData>
+		<SimpleData name="lon">-70.3921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.3921,38.2407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525107</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.2801</SimpleData>
+		<SimpleData name="lon">-70.4047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4047,38.2801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525108</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.321</SimpleData>
+		<SimpleData name="lon">-70.4208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4208,38.321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525109</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.3615</SimpleData>
+		<SimpleData name="lon">-70.4394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4394,38.3615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525110</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.4013</SimpleData>
+		<SimpleData name="lon">-70.4561</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4561,38.4013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525111</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.4428</SimpleData>
+		<SimpleData name="lon">-70.4717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4717,38.4428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525112</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.4846</SimpleData>
+		<SimpleData name="lon">-70.4866</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.4866,38.4846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525113</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.5265</SimpleData>
+		<SimpleData name="lon">-70.5004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5004,38.5265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525114</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.5678</SimpleData>
+		<SimpleData name="lon">-70.5128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5128,38.5678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525115</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.6099</SimpleData>
+		<SimpleData name="lon">-70.5228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5228,38.6099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525116</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.6508</SimpleData>
+		<SimpleData name="lon">-70.5354</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5354,38.6508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525117</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.6918</SimpleData>
+		<SimpleData name="lon">-70.5464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5464,38.6918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525118</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.7335</SimpleData>
+		<SimpleData name="lon">-70.5566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5566,38.7335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525119</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.7741</SimpleData>
+		<SimpleData name="lon">-70.5688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5688,38.7741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525120</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.8147</SimpleData>
+		<SimpleData name="lon">-70.5831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5831,38.8147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525121</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.8561</SimpleData>
+		<SimpleData name="lon">-70.5986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.5986,38.8561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525122</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.8977</SimpleData>
+		<SimpleData name="lon">-70.6101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6101,38.8977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525123</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.9382</SimpleData>
+		<SimpleData name="lon">-70.6221</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6221,38.9382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525124</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">38.9795</SimpleData>
+		<SimpleData name="lon">-70.6358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6358,38.9795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525125</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.0212</SimpleData>
+		<SimpleData name="lon">-70.65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.65,39.0212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525126</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.0626</SimpleData>
+		<SimpleData name="lon">-70.6644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6644,39.0626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525127</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.1043</SimpleData>
+		<SimpleData name="lon">-70.6798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6798,39.1043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525128</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.1502</SimpleData>
+		<SimpleData name="lon">-70.6958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.6958,39.1502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525129</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.2012</SimpleData>
+		<SimpleData name="lon">-70.7117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7117,39.2012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525130</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.2532</SimpleData>
+		<SimpleData name="lon">-70.7275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7275,39.2532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525131</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.3053</SimpleData>
+		<SimpleData name="lon">-70.7434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7434,39.3053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525132</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.358</SimpleData>
+		<SimpleData name="lon">-70.7598</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7598,39.358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525133</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.4109</SimpleData>
+		<SimpleData name="lon">-70.7771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7771,39.4109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525134</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.463</SimpleData>
+		<SimpleData name="lon">-70.7962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.7962,39.463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525135</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.5163</SimpleData>
+		<SimpleData name="lon">-70.8116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8116,39.5163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525136</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.5635</SimpleData>
+		<SimpleData name="lon">-70.827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.827,39.5635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525137</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.6072</SimpleData>
+		<SimpleData name="lon">-70.8416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8416,39.6072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525138</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.6511</SimpleData>
+		<SimpleData name="lon">-70.8544</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8544,39.6511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525139</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.6945</SimpleData>
+		<SimpleData name="lon">-70.8634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8634,39.6945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525140</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.6934</SimpleData>
+		<SimpleData name="lon">-70.8645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8645,39.6934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525141</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.6821</SimpleData>
+		<SimpleData name="lon">-70.8912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8912,39.6821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525142</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.6857</SimpleData>
+		<SimpleData name="lon">-70.8997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.8997,39.6857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525143</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.7235</SimpleData>
+		<SimpleData name="lon">-70.9058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9058,39.7235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525144</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.7611</SimpleData>
+		<SimpleData name="lon">-70.9109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9109,39.7611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525145</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.7999</SimpleData>
+		<SimpleData name="lon">-70.9133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9133,39.7999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525146</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.8406</SimpleData>
+		<SimpleData name="lon">-70.9159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9159,39.8406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525147</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.8806</SimpleData>
+		<SimpleData name="lon">-70.9215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9215,39.8806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525148</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.9192</SimpleData>
+		<SimpleData name="lon">-70.9309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9309,39.9192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525149</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.9436</SimpleData>
+		<SimpleData name="lon">-70.9313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9313,39.9436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525150</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.9412</SimpleData>
+		<SimpleData name="lon">-70.9286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9286,39.9412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525151</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.9505</SimpleData>
+		<SimpleData name="lon">-70.9333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9333,39.9505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525152</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">39.9833</SimpleData>
+		<SimpleData name="lon">-70.944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.944,39.9833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525153</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.0157</SimpleData>
+		<SimpleData name="lon">-70.9571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9571,40.0157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525154</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.0476</SimpleData>
+		<SimpleData name="lon">-70.9713</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9713,40.0476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525155</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.0804</SimpleData>
+		<SimpleData name="lon">-70.984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.984,40.0804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525156</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.1133</SimpleData>
+		<SimpleData name="lon">-70.9972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9972,40.1133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525157</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.1465</SimpleData>
+		<SimpleData name="lon">-71.0112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0112,40.1465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525158</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.18</SimpleData>
+		<SimpleData name="lon">-71.0225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0225,40.18</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525159</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.2132</SimpleData>
+		<SimpleData name="lon">-71.0315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0315,40.2132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525160</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.246</SimpleData>
+		<SimpleData name="lon">-71.0397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0397,40.246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525161</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.2795</SimpleData>
+		<SimpleData name="lon">-71.0492</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0492,40.2795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525162</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.3116</SimpleData>
+		<SimpleData name="lon">-71.0613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0613,40.3116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525163</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.3423</SimpleData>
+		<SimpleData name="lon">-71.0747</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0747,40.3423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525164</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.3745</SimpleData>
+		<SimpleData name="lon">-71.0885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0885,40.3745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525165</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.4064</SimpleData>
+		<SimpleData name="lon">-71.1009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1009,40.4064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525166</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.4389</SimpleData>
+		<SimpleData name="lon">-71.1132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1132,40.4389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525167</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.4717</SimpleData>
+		<SimpleData name="lon">-71.1254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1254,40.4717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525168</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.5041</SimpleData>
+		<SimpleData name="lon">-71.1387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1387,40.5041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525169</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.5357</SimpleData>
+		<SimpleData name="lon">-71.1508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1508,40.5357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525170</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.5669</SimpleData>
+		<SimpleData name="lon">-71.1599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1599,40.5669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525171</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.5979</SimpleData>
+		<SimpleData name="lon">-71.1676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1676,40.5979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525172</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.6294</SimpleData>
+		<SimpleData name="lon">-71.1746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1746,40.6294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525173</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.6608</SimpleData>
+		<SimpleData name="lon">-71.1826</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1826,40.6608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525174</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.6914</SimpleData>
+		<SimpleData name="lon">-71.1911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1911,40.6914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525175</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.7226</SimpleData>
+		<SimpleData name="lon">-71.2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2003,40.7226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525176</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.7539</SimpleData>
+		<SimpleData name="lon">-71.2103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2103,40.7539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525177</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.785</SimpleData>
+		<SimpleData name="lon">-71.2205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2205,40.785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525178</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.8158</SimpleData>
+		<SimpleData name="lon">-71.2315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2315,40.8158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525179</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.847</SimpleData>
+		<SimpleData name="lon">-71.2418</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2418,40.847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525180</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.8784</SimpleData>
+		<SimpleData name="lon">-71.2477</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2477,40.8784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525181</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.8891</SimpleData>
+		<SimpleData name="lon">-71.231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.231,40.8891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525182</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.9289</SimpleData>
+		<SimpleData name="lon">-71.2336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2336,40.9289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525183</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">40.9687</SimpleData>
+		<SimpleData name="lon">-71.2444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2444,40.9687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525184</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.0041</SimpleData>
+		<SimpleData name="lon">-71.2623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2623,41.0041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525185</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.0362</SimpleData>
+		<SimpleData name="lon">-71.2791</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2791,41.0362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525186</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.0681</SimpleData>
+		<SimpleData name="lon">-71.2964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2964,41.0681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525187</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.1001</SimpleData>
+		<SimpleData name="lon">-71.3136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3136,41.1001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525188</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.1314</SimpleData>
+		<SimpleData name="lon">-71.3307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3307,41.1314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525189</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.1628</SimpleData>
+		<SimpleData name="lon">-71.3478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3478,41.1628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525190</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.1936</SimpleData>
+		<SimpleData name="lon">-71.3472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3472,41.1936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525191</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.2244</SimpleData>
+		<SimpleData name="lon">-71.3427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3427,41.2244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525192</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.2546</SimpleData>
+		<SimpleData name="lon">-71.3351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3351,41.2546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525193</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.2841</SimpleData>
+		<SimpleData name="lon">-71.3284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3284,41.2841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525194</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3132</SimpleData>
+		<SimpleData name="lon">-71.3215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3215,41.3132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525195</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3425</SimpleData>
+		<SimpleData name="lon">-71.3171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3171,41.3425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525196</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3665</SimpleData>
+		<SimpleData name="lon">-71.2964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.2964,41.3665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525197</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3685</SimpleData>
+		<SimpleData name="lon">-71.3022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3022,41.3685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525198</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3712</SimpleData>
+		<SimpleData name="lon">-71.3078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3078,41.3712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525199</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.374</SimpleData>
+		<SimpleData name="lon">-71.3133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3133,41.374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525200</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3766</SimpleData>
+		<SimpleData name="lon">-71.3187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3187,41.3766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525201</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3772</SimpleData>
+		<SimpleData name="lon">-71.3193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3193,41.3772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525202</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3746</SimpleData>
+		<SimpleData name="lon">-71.3122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3122,41.3746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525203</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3788</SimpleData>
+		<SimpleData name="lon">-71.3251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3251,41.3788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525204</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.3955</SimpleData>
+		<SimpleData name="lon">-71.3511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3511,41.3955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525205</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.4111</SimpleData>
+		<SimpleData name="lon">-71.3753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3753,41.4111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525206</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.4272</SimpleData>
+		<SimpleData name="lon">-71.4015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4015,41.4272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525207</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.4471</SimpleData>
+		<SimpleData name="lon">-71.4106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4106,41.4471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525208</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.4674</SimpleData>
+		<SimpleData name="lon">-71.4095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4095,41.4674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525209</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.4877</SimpleData>
+		<SimpleData name="lon">-71.4086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4086,41.4877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN648.gpkg">
+		<SimpleData name="fid">525210</SimpleData>
+		<SimpleData name="Cruise">EN648</SimpleData>
+		<SimpleData name="lat">41.4934</SimpleData>
+		<SimpleData name="lon">-71.419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.419,41.4934</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
