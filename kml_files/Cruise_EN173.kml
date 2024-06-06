@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Cruise_EN_173.gpkg" id="Cruise_EN_173.gpkg">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Cruise" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+</Schema>
+<Folder><name>Cruise_EN_173.gpkg</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_173.gpkg">
+		<SimpleData name="fid">2094</SimpleData>
+		<SimpleData name="Cruise">EN-173</SimpleData>
+		<SimpleData name="lat">40.755</SimpleData>
+		<SimpleData name="lon">-71.557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.557,40.755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_173.gpkg">
+		<SimpleData name="fid">2095</SimpleData>
+		<SimpleData name="Cruise">EN-173</SimpleData>
+		<SimpleData name="lat">38.985</SimpleData>
+		<SimpleData name="lon">-72.032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.032,38.985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_173.gpkg">
+		<SimpleData name="fid">2096</SimpleData>
+		<SimpleData name="Cruise">EN-173</SimpleData>
+		<SimpleData name="lat">38.833</SimpleData>
+		<SimpleData name="lon">-72.065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.065,38.833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Cruise_EN_173.gpkg">
+		<SimpleData name="fid">2097</SimpleData>
+		<SimpleData name="Cruise">EN-173</SimpleData>
+		<SimpleData name="lat">38.922</SimpleData>
+		<SimpleData name="lon">-72.07</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.07,38.922</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

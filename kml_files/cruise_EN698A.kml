@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cruise_EN698A.gpkg" id="cruise_EN698A.gpkg">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="cruise" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+<Folder><name>cruise_EN698A.gpkg</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cruise_EN698A.gpkg">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="cruise">EN698A</SimpleData>
+		<SimpleData name="lon">-71.4037</SimpleData>
+		<SimpleData name="lat">41.5848</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4037,41.5848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cruise_EN698A.gpkg">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="cruise">EN698A</SimpleData>
+		<SimpleData name="lon">-71.3906</SimpleData>
+		<SimpleData name="lat">41.5753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3906,41.5753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cruise_EN698A.gpkg">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="cruise">EN698A</SimpleData>
+		<SimpleData name="lon">-71.3925</SimpleData>
+		<SimpleData name="lat">41.566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3925,41.566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#cruise_EN698A.gpkg">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="cruise">EN698A</SimpleData>
+		<SimpleData name="lon">-71.3966</SimpleData>
+		<SimpleData name="lat">41.5356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3966,41.5356</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 from datetime import datetime
 
-cruisesfile="C:/users/bonny/downloads/cruises_names_2022.csv"
+cruisesfile="C:/users/bonny/downloads/cruises_names_2023.csv"
 datafile="C:/users/bonny/downloads/Endeavor_2022-2023.csv"
 
 cruises=[]
@@ -68,7 +68,7 @@ for data in cruise_data:
 for key, value in cruise_data_by_cruise.items():
     # Create a filename based on the key
     cruise = key
-    csv_file = "C:/users/bonny/downloads/cruisedata_2022.csv"
+    csv_file = "C:/users/bonny/downloads/cruisedata_2023.csv"
     
     # Write the key-value pair to the CSV file
     with open(csv_file, "w", newline="") as file:

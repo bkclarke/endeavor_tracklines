@@ -29,7 +29,7 @@ def remove_word_from_filenames(directory, word):
 
 # Specify the directory and word to remove
 directory = "C:/Users/bonny/github/endeavor_tracklines/kml_files"
-word_to_remove = ".gpkg"
+word_to_remove = "-"
 
 # Call the function
 remove_word_from_filenames(directory, word_to_remove)
