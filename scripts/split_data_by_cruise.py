@@ -2,8 +2,8 @@ import pandas as pd
 import csv
 from datetime import datetime
 
-cruisesfile="C:/users/bonny/downloads/cruises_names_2016-2020.csv"
-datafile="C:/users/bonny/downloads/20200724_20211001.csv"
+cruisesfile="C:/users/bonny/downloads/cruises_names_2022.csv"
+datafile="C:/users/bonny/downloads/Endeavor_2022-2023.csv"
 
 cruises=[]
 cruise_names=[]
@@ -11,10 +11,12 @@ cruise_data=[]
 cruise_data_by_cruise={}
 
 #create list of cruises with cruise, start_date, and end_date fields
-with open(cruisesfile, "r", newline="") as f:
+with open(cruisesfile, "r", encoding='utf-8-sig', newline="") as f:
     reader = csv.reader(f)
     for row in reader:
+        print(row)
         cruises.append(row)
+        print(cruises)
 
 def add_or_append(dictionary, key, data):
     if key in dictionary:
@@ -66,7 +68,7 @@ for data in cruise_data:
 for key, value in cruise_data_by_cruise.items():
     # Create a filename based on the key
     cruise = key
-    csv_file = "C:/users/bonny/downloads/cruisedata_TEST.csv"
+    csv_file = "C:/users/bonny/downloads/cruisedata_2022.csv"
     
     # Write the key-value pair to the CSV file
     with open(csv_file, "w", newline="") as file:

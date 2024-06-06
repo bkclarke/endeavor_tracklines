@@ -10,7 +10,7 @@ def import_layers_from_geopackage(geopackage_path):
     QgsProject.instance().addMapLayer(layer)
 
 # Directory containing GeoPackage files
-directory = "C:/Users/bonny/github/endeavor_tracklines/points/individual_cruises"
+directory = "C:/Users/bonny/github/endeavor_tracklines/points/individual_cruises/upload"
 
 # List all files in the directory
 geopackage_files = [os.path.join(directory, file) for file in os.listdir(directory) if file.endswith('.gpkg')]
