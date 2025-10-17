@@ -2,8 +2,8 @@ import pandas as pd
 import csv
 from datetime import datetime
 
-cruisesfile="C:/users/bonny/downloads/cruises_names_2023.csv"
-datafile="C:/users/bonny/downloads/Endeavor_2022-2023.csv"
+cruisesfile="C://Users//bonny//github//endeavor_tracklines//csv_files//cruises_names_2024-2025.csv"
+datafile="C://Users//bonny//github//endeavor_tracklines//csv_files//2024_2025_tracklines.csv"
 
 cruises=[]
 cruise_names=[]
@@ -14,7 +14,6 @@ cruise_data_by_cruise={}
 with open(cruisesfile, "r", encoding='utf-8-sig', newline="") as f:
     reader = csv.reader(f)
     for row in reader:
-        print(row)
         cruises.append(row)
         print(cruises)
 
@@ -27,6 +26,7 @@ def add_or_append(dictionary, key, data):
 #create list of cruise names
 for row in cruises:
     name=row[0]
+    print(name)
     cruise_names.append(name)
 
 #create list of data from cruises with date, lat, lon
@@ -37,11 +37,13 @@ with open(datafile, "r", newline="") as f:
 
 #loop through cruise_data rows
 for data in cruise_data:
+    print(data)
     #loop through cruises rows
     for cruise in cruises:
         #format dates into datetime objects
         check_date=data[3]
         check_date_year=int(check_date[0:4])
+        print(check_date_year)
         check_date_month=int(check_date[5:7])
         check_date_day=int(check_date[8:10])
         check_date=datetime(check_date_year,check_date_month,check_date_day)
@@ -68,7 +70,7 @@ for data in cruise_data:
 for key, value in cruise_data_by_cruise.items():
     # Create a filename based on the key
     cruise = key
-    csv_file = "C:/users/bonny/downloads/cruisedata_2023.csv"
+    csv_file = "C://Users//bonny//github//endeavor_tracklines//csv_files//EN711_EN736.csv"
     
     # Write the key-value pair to the CSV file
     with open(csv_file, "w", newline="") as file:
